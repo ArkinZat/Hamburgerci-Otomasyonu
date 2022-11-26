@@ -1,0 +1,14 @@
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe.config
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.pdb
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.AssemblyReference.cache
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form1.resources
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form2.resources
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form3.resources
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form4.resources
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.MyMdiForm.resources
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.exe
+C:\Users\aa\Desktop\23.06-Gözdesu Hoca (OOP)\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.pdb
